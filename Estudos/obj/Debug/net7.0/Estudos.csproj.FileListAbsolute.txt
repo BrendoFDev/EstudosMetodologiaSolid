@@ -1,0 +1,14 @@
+C:\Users\Brendo\source\repos\Estudos\Estudos\bin\Debug\net7.0\Estudos.exe
+C:\Users\Brendo\source\repos\Estudos\Estudos\bin\Debug\net7.0\Estudos.deps.json
+C:\Users\Brendo\source\repos\Estudos\Estudos\bin\Debug\net7.0\Estudos.runtimeconfig.json
+C:\Users\Brendo\source\repos\Estudos\Estudos\bin\Debug\net7.0\Estudos.dll
+C:\Users\Brendo\source\repos\Estudos\Estudos\bin\Debug\net7.0\Estudos.pdb
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.AssemblyInfoInputs.cache
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.AssemblyInfo.cs
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.dll
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\refint\Estudos.dll
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.pdb
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.genruntimeconfig.cache
+C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\ref\Estudos.dll
