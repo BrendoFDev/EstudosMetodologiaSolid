@@ -8,12 +8,25 @@ namespace Estudos
 {
     public class UserService
     {
+        public IUserRepository userRepository { get; }
 
+        public UserService(IUserRepository userRepository)
+        {
+            this.userRepository = userRepository;
+        }
+
+        public void AddUser(User user)
+        {
+            this.userRepository.AddUser(user);
+        }
     }
 
-    public class UserRepository :IUserRepository
+    public class UserRepository : IUserRepository
     {
+        public void AddUser(User user)
+        {
 
+        }
     }
 
     public class User
