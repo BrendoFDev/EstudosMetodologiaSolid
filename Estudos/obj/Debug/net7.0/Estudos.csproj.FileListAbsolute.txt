@@ -12,3 +12,11 @@ C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\refint\Estudos.dll
 C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.pdb
 C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\Estudos.genruntimeconfig.cache
 C:\Users\Brendo\source\repos\Estudos\Estudos\obj\Debug\net7.0\ref\Estudos.dll
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.AssemblyInfoInputs.cache
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.AssemblyInfo.cs
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.sourcelink.json
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.dll
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\refint\Estudos.dll
+C:\Users\draka\source\repos\estudos\Estudos\obj\Debug\net7.0\Estudos.pdb

@@ -1,0 +1,17 @@
+C:\Users\draka\source\repos\estudos\MyForms\bin\Debug\net8.0-windows\MyForms.exe
+C:\Users\draka\source\repos\estudos\MyForms\bin\Debug\net8.0-windows\MyForms.deps.json
+C:\Users\draka\source\repos\estudos\MyForms\bin\Debug\net8.0-windows\MyForms.runtimeconfig.json
+C:\Users\draka\source\repos\estudos\MyForms\bin\Debug\net8.0-windows\MyForms.dll
+C:\Users\draka\source\repos\estudos\MyForms\bin\Debug\net8.0-windows\MyForms.pdb
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.Login.resources
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.csproj.GenerateResource.cache
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.AssemblyInfoInputs.cache
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.AssemblyInfo.cs
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.csproj.CoreCompileInputs.cache
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.sourcelink.json
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.dll
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\refint\MyForms.dll
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.pdb
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\MyForms.genruntimeconfig.cache
+C:\Users\draka\source\repos\estudos\MyForms\obj\Debug\net8.0-windows\ref\MyForms.dll

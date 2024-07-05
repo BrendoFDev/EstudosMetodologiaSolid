@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brendo\\source\\repos\\Estudos\\Estudos\\Estudos.csproj": {}
+    "C:\\Users\\Brendo\\source\\repos\\Estudos\\MyForms\\MyForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brendo\\source\\repos\\Estudos\\Estudos\\Estudos.csproj": {
+    "C:\\Users\\Brendo\\source\\repos\\Estudos\\MyForms\\MyForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brendo\\source\\repos\\Estudos\\Estudos\\Estudos.csproj",
-        "projectName": "Estudos",
-        "projectPath": "C:\\Users\\Brendo\\source\\repos\\Estudos\\Estudos\\Estudos.csproj",
+        "projectUniqueName": "C:\\Users\\Brendo\\source\\repos\\Estudos\\MyForms\\MyForms.csproj",
+        "projectName": "MyForms",
+        "projectPath": "C:\\Users\\Brendo\\source\\repos\\Estudos\\MyForms\\MyForms.csproj",
         "packagesPath": "C:\\Users\\Brendo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brendo\\source\\repos\\Estudos\\Estudos\\obj\\",
+        "outputPath": "C:\\Users\\Brendo\\source\\repos\\Estudos\\MyForms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brendo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net7.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,22 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,6 +67,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
