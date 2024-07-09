@@ -7,6 +7,7 @@ namespace MyForms
         public Login()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void txtName_KeyDown(object sender, KeyEventArgs e)
@@ -25,12 +26,14 @@ namespace MyForms
 
         private void bttLogin_Click(object? sender, EventArgs e)
         {
-
+            
         }
 
         private void bttLogon_Click(object sender, EventArgs e)
         {
-            CadUsuario cadUsuario = new CadUsuario();
+            this.Hide();
+            CadUsuario CadastrarUsuario = new CadUsuario();
+            CadastrarUsuario.ShowDialog();
         }
     }
 }

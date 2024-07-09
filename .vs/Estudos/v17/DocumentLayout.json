@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\draka\\source\\repos\\estudos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\cadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\cadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\cadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\cadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB27C233-7CDC-45F9-ACE0-54BC027E4F88}|Estudos\\Estudos.csproj|c:\\users\\draka\\source\\repos\\estudos\\estudos\\resposta5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB27C233-7CDC-45F9-ACE0-54BC027E4F88}|Estudos\\Estudos.csproj|solutionrelative:estudos\\resposta5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|c:\\users\\draka\\source\\repos\\estudos\\myforms\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F02C3CF-81F8-4237-8FD8-7DFFA8F56E3F}|MyForms\\MyForms.csproj|solutionrelative:myforms\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "MyForms\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.Designer.cs",
-              "RelativeToolTip": "MyForms\\Login.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAPAAAA",
+              "DocumentIndex": 0,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "MyForms\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "MyForms\\Security\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:11:25.759Z",
+              "WhenOpened": "2024-07-06T16:33:36.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.cs",
-              "RelativeDocumentMoniker": "MyForms\\Login.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.cs",
-              "RelativeToolTip": "MyForms\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "CadUsuario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\CadUsuario.cs",
+              "RelativeDocumentMoniker": "MyForms\\CadUsuario.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\CadUsuario.cs [Projeto]",
+              "RelativeToolTip": "MyForms\\CadUsuario.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T01:05:43.516Z",
+              "WhenOpened": "2024-07-06T15:48:09.819Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MyForms\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Services\\UserService.cs",
+              "RelativeToolTip": "MyForms\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T02:36:20.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.cs",
-              "RelativeDocumentMoniker": "MyForms\\Login.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.cs [Projeto]",
-              "RelativeToolTip": "MyForms\\Login.cs [Projeto]",
+              "Title": "CadUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\CadUsuario.cs",
+              "RelativeDocumentMoniker": "MyForms\\CadUsuario.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\CadUsuario.cs",
+              "RelativeToolTip": "MyForms\\CadUsuario.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA0wEUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:52:50.063Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-07-06T00:54:28.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resposta5.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\Estudos\\Resposta5.cs",
-              "RelativeDocumentMoniker": "Estudos\\Resposta5.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\Estudos\\Resposta5.cs",
-              "RelativeToolTip": "Estudos\\Resposta5.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.cs",
+              "RelativeDocumentMoniker": "MyForms\\Login.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\estudos\\MyForms\\Login.cs",
+              "RelativeToolTip": "MyForms\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T00:50:26.527Z",
+              "WhenOpened": "2024-07-05T01:05:43.516Z",
               "EditorCaption": ""
             }
           ]

@@ -15,7 +15,7 @@ namespace MyForms.Mapping
         public void Override(AutoMapping<User> _User) 
         {
             _User.Table("t_usuario");
-            _User.Id(x => x.Id).Column("id");
+            _User.Id(x => x.Id).Column("id").GeneratedBy.Identity();
             _User.Map(x => x.Name).Column("nome");
             _User.Map(x=> x.Email).Column("email");
             _User.Map(x=> x.Login).Column("login");

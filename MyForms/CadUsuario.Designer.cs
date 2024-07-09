@@ -32,13 +32,13 @@
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
+            txtNome = new TextBox();
+            txtEmail = new TextBox();
+            txtLogin = new TextBox();
+            txtSenha = new TextBox();
             label5 = new Label();
-            button1 = new Button();
-            button2 = new Button();
+            bttCadastrar = new Button();
+            bttCancel = new Button();
             SuspendLayout();
             // 
             // label1
@@ -77,33 +77,37 @@
             label4.TabIndex = 3;
             label4.Text = "Senha";
             // 
-            // textBox1
+            // txtNome
             // 
-            textBox1.Location = new Point(105, 36);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 4;
+            txtNome.Location = new Point(105, 36);
+            txtNome.Name = "txtNome";
+            txtNome.Size = new Size(100, 23);
+            txtNome.TabIndex = 4;
+            txtNome.KeyDown += textBox1_KeyDown;
             // 
-            // textBox2
+            // txtEmail
             // 
-            textBox2.Location = new Point(105, 77);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(100, 23);
-            textBox2.TabIndex = 5;
+            txtEmail.Location = new Point(105, 77);
+            txtEmail.Name = "txtEmail";
+            txtEmail.Size = new Size(100, 23);
+            txtEmail.TabIndex = 5;
+            txtEmail.KeyDown += txtEmail_KeyDown;
             // 
-            // textBox3
+            // txtLogin
             // 
-            textBox3.Location = new Point(105, 115);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 6;
+            txtLogin.Location = new Point(105, 115);
+            txtLogin.Name = "txtLogin";
+            txtLogin.Size = new Size(100, 23);
+            txtLogin.TabIndex = 6;
+            txtLogin.KeyDown += txtLogin_KeyDown;
             // 
-            // textBox4
+            // txtSenha
             // 
-            textBox4.Location = new Point(105, 158);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(100, 23);
-            textBox4.TabIndex = 7;
+            txtSenha.Location = new Point(105, 158);
+            txtSenha.Name = "txtSenha";
+            txtSenha.Size = new Size(100, 23);
+            txtSenha.TabIndex = 7;
+            txtSenha.KeyDown += txtSenha_KeyDown;
             // 
             // label5
             // 
@@ -114,36 +118,38 @@
             label5.TabIndex = 8;
             label5.Text = "Cadastro de Usuário";
             // 
-            // button1
+            // bttCadastrar
             // 
-            button1.Location = new Point(156, 198);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 9;
-            button1.Text = "Cadastrar";
-            button1.UseVisualStyleBackColor = true;
+            bttCadastrar.Location = new Point(156, 198);
+            bttCadastrar.Name = "bttCadastrar";
+            bttCadastrar.Size = new Size(75, 23);
+            bttCadastrar.TabIndex = 9;
+            bttCadastrar.Text = "Cadastrar";
+            bttCadastrar.UseVisualStyleBackColor = true;
+            bttCadastrar.Click += bttCadastrar_Click;
             // 
-            // button2
+            // bttCancel
             // 
-            button2.Location = new Point(24, 198);
-            button2.Name = "button2";
-            button2.Size = new Size(76, 23);
-            button2.TabIndex = 10;
-            button2.Text = "Cancelar";
-            button2.UseVisualStyleBackColor = true;
+            bttCancel.Location = new Point(24, 198);
+            bttCancel.Name = "bttCancel";
+            bttCancel.Size = new Size(76, 23);
+            bttCancel.TabIndex = 10;
+            bttCancel.Text = "Cancelar";
+            bttCancel.UseVisualStyleBackColor = true;
+            bttCancel.Click += bttCancel_Click;
             // 
             // CadUsuario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(262, 237);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(bttCancel);
+            Controls.Add(bttCadastrar);
             Controls.Add(label5);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(txtSenha);
+            Controls.Add(txtLogin);
+            Controls.Add(txtEmail);
+            Controls.Add(txtNome);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -160,12 +166,12 @@
         private Label label2;
         private Label label3;
         private Label label4;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
+        private TextBox txtNome;
+        private TextBox txtEmail;
+        private TextBox txtLogin;
+        private TextBox txtSenha;
         private Label label5;
-        private Button button1;
-        private Button button2;
+        private Button bttCadastrar;
+        private Button bttCancel;
     }
 }

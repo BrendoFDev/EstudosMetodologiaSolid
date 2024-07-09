@@ -32,12 +32,12 @@ namespace Estudos
         }
     }
 
-   /* public class Program
+    public class Program
     {
         public static void Main()
         {
             IOrderRepository orderRepository = new DatabaseOrderRepository();
             IEmailService emailService = new EmailService();
         }
-    }*/
+    }
 }
